@@ -7,7 +7,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author asidhu -- commit test
+ * @author asidhu -- commit test number 2
+ * 
  */
 public class Student {
     
